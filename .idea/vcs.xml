@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/league/route" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/maximebf/debugbar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/nikic/fast-route" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/psr/container" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/psr/http-factory" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/psr/http-message" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/psr/http-server-handler" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/psr/http-server-middleware" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/psr/log" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/polyfill-php72" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/var-dumper" vcs="Git" />
+  </component>
+</project>
