@@ -1,0 +1,28 @@
+{
+    "name": "dell/books",
+    "description": "Book Store MVC",
+    "type": "project",
+    "keywords": [
+        "books",
+        "php"
+    ],
+    "authors": [
+        {
+            "name": "Hung Pham",
+            "email": "tanhunghue@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "justinrainbow/json-schema": "^5.2"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "scripts": {
+        "serve" : "php -S localhost:8000 -t public/"
+    }
+}
